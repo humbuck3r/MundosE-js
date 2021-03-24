@@ -1,0 +1,28 @@
+.header {
+    border-bottom: 1px solid #e0752f;
+    position: fixed;
+    z-index: 1000;
+    width: 100%;
+    height: 75px;       
+   
+}
+.container {
+        display: flex;
+        align-items: center;
+        flex-direction: row;
+    }
+a.nav-link {
+    position: relative;
+    padding: 15px;
+    color: white;
+    font-size: 16px;
+    left: 580px;
+    
+}
+
+.logo{
+    
+    position: relative;
+    right: 35px;
+    
+}
