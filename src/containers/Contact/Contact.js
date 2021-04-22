@@ -31,10 +31,10 @@ const Contact = () => {
     console.log(e.target.value);
     // Vamos a crear nuestro objeto formData
     // {
-    //   name: 'Franco'
-    //   email: "franco@gmail.com"
-    //   phone: 346787666656
-    //   message: 'sadasdasdasd asd asd '
+    //   name: 'eze'
+    //   email: "sr.ska89@gmail.com"
+    //   phone: 123456789
+    //   message: 'sadas222dasadasdasd asd asd '
     // }
     setFormData((prevState) => {
       return {
